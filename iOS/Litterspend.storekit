@@ -1,0 +1,42 @@
+{
+  "identifier": "litterspend",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Litterspend Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "litterspend_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Usage rate calculator predicting next purchase date",
+              "displayName": "Litterspend Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "litterspend_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Litterspend Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
